@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 9b8dc46c-e782-4a30-b29e-ef3de1ae8f53
-  WEBAPP-NAME: eshoponweb-webapp-lucky321
+  WEBAPP-NAME: eshoponweb-webapp-lucky
 
 
 jobs:
